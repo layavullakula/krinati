@@ -20,8 +20,7 @@ reactjs,nodejs,mongodb
 2) frontend : cd myapp
               npm i axios react-loader-spinner styled-components react-dom
               npm start
-3)backend: nodemon index.js
-           (if database problem then attach own database)
+3)backend: nodemon index.js(if database problem then attach own database)
 4) open browser 'http://localhost:3000/'
 5) input the form with longitude and latitude eg:-'-74.0007316,40.7629786' other fields are not mandatory . if wrong input was given then it shows loading scene
 6) output shows list of 3 near cars else show error of no nearby cars with back navigate button
