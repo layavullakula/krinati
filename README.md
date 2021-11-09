@@ -1,4 +1,4 @@
-# Search NearBy Cabs Input
+# Search NearBy Cabs
 When user searches for nearby cars, then it shows top 3 cars which are nearest to user.
 Data models will be roughly the following:
 Driver,Car as given
